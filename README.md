@@ -1,3 +1,9 @@
+<?xml version="1.0"?>
+<opml version="2.0">
+  <head>
+    <ownerEmail>
+      shuaizhun@qq.com
+    </ownerEmail>
   </head>
   <body>
       <outline text="第3组英汉">
