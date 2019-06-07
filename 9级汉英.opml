@@ -1,6 +1,12 @@
+<?xml version="1.0"?>
+<opml version="2.0">
+  <head>
+    <ownerEmail>
+      shuaizhun@qq.com
+    </ownerEmail>
   </head>
   <body>
-      <outline text="第3组英汉">
+    <outline text="第3组英汉">
       <outline text="&lt;b&gt;闯红灯&lt;/b&gt;" />
         <outline text="run a red light">
         <outline text="How much will I be fined for running a red light." _note="闯红灯要罚多少." />
@@ -251,7 +257,8 @@
         <outline text="Don't hang around here when we are busy." _note="我们都在忙着，你别在这儿游荡啦。" />
         <outline text="Don't hang around, we have a train to catch." _note="别闲呆着了，我们要赶火车。" />
       </outline>
-
+    </outline>
+    <outline text="第3组英汉">
       <outline text="&lt;b&gt;（正）相合&lt;/b&gt;" />
         <outline text="fit right in">
         <outline text="I guess you fit right in here, being half Japanese and half white." _note="我想你很适合这里，你是一半日本人，一半白人。" />
@@ -502,7 +509,8 @@
         <outline text="I need not take thought for the matter." _note="我不必为这事操心。" />
         <outline text="Mark took thought how to escape from prison." _note="马克寻思着怎样越狱。" />
       </outline>
-
+    </outline>
+    <outline text="第3组英汉">
       <outline text="&lt;b&gt;由于，根据&lt;/b&gt;" />
         <outline text="on the grounds that">
         <outline text="I object to the plan on the grounds that it is too expensive." _note="我反对该项计画，理由是花费太大。" />
@@ -753,7 +761,8 @@
         <outline text="I made a terrific effort to refrain from tears." _note="我狠着心把泪止住。" />
         <outline text="Please refrain from smoking during the performance." _note="演出时请勿吸烟。" />
       </outline>
-
+    </outline>
+    <outline text="第3组英汉">
       <outline text="&lt;b&gt;向...告别，告辞&lt;/b&gt;" />
         <outline text="take leave of">
         <outline text="Take leave of your partner." _note="离开你的搭档。" />
@@ -1004,7 +1013,8 @@
         <outline text="Skilled workers are at a premium in this town." _note="熟练的技工在这个城市里很受青睐。" />
         <outline text="Student flats are at a premium." _note="现在学生公寓供不应求。" />
       </outline>
-
+    </outline>
+    <outline text="第3组英汉">
       <outline text="&lt;b&gt;使自己能够使用/利用&lt;/b&gt;" />
         <outline text="avail oneself of">
         <outline text="I gladly avail myself of your offer." _note="我很乐意接受你的帮忙。" />
@@ -1255,7 +1265,8 @@
         <outline text="Employers put a premium on honesty and hard work." _note=" 雇主们很重视诚实和勤奋的工作。" />
         <outline text="And voters seem to put a premium on competence." _note="选民似乎也高度评价竞争力。" />
       </outline>
-
+    </outline>
+    <outline text="第3组英汉">
       <outline text="&lt;b&gt;（不正当地）利用&lt;/b&gt;" />
         <outline text="presume on">
         <outline text="Take care that you don't presume on my feelings." _note=" 注意不要滥用我的感情。" />
@@ -1506,7 +1517,8 @@
         <outline text="The university conferred its highest degree on the statesman." _note="该大学将其最高学位授予了这位政治家。" />
         <outline text="Diplomas were conferred on members of the graduating class." _note="给毕业班的学生颁发了毕业文凭。" />
       </outline>
-
+    </outline>
+    <outline text="第3组英汉">
       <outline text="&lt;b&gt;跑腿，办事（如送信、买东西等）&lt;/b&gt;" />
         <outline text="run an errand">
         <outline text="I want somebody to run an errand for me." _note="我想找个人替我跑个腿儿。" />
@@ -1757,7 +1769,8 @@
         <outline text="John excused himself for his low grades on the ground that the teacher didn't like him." _note="约翰为自己成绩低辩解，其理由是老师不喜欢他。" />
         <outline text="We are against the irresponsible attitude of standing aloof from things on the ground that they're no concern of ours." _note="我们反对事不关己，高高挂起的自由主义态度。" />
       </outline>
-
+    </outline>
+    <outline text="第3组英汉">
       <outline text="&lt;b&gt;在...不在场的情况下，缺乏，不存在&lt;/b&gt;" />
         <outline text="in the absence of">
         <outline text="Original mail returned in the absence of the addressee." _note="收信人不在，原件退回。" />
@@ -2008,7 +2021,8 @@
         <outline text="The job won't take long if we all dig in." _note="如果我们都全力以赴，这项工作花不了多少时间。" />
         <outline text="If you expect to finish the work this morning you had better dig in and get started." _note="如果你想上午完成这项工作，就得下力气大干起来。" />
       </outline>
-
+    </outline>
+    <outline text="第3组英汉">
       <outline text="&lt;b&gt;从事，着手，开始工作&lt;/b&gt;" />
         <outline text="embark on">
         <outline text="He is about to embark on a new business venture." _note="他就要开始新的商业冒险活动。" />
@@ -2259,7 +2273,8 @@
         <outline text="That information may cast light on the mystery." _note="那项情报可能有助于查明那件疑案。" />
         <outline text="All of these works cast light on the early days of the United States." _note="所有这些作品再现了美国的早期岁月。" />
       </outline>
-
+    </outline>
+    <outline text="第3组英汉">
       <outline text="&lt;b&gt;即使那样，连...都&lt;/b&gt;" />
         <outline text="even then">
         <outline text="I explained everything,but even then he didn't understand." _note="我样样都解释到了，即使这样他还是不明白。" />
@@ -2510,7 +2525,8 @@
         <outline text="He often wagged her jaw." _note="他常常喋喋不休。" />
         <outline text="She often wagged her jaw." _note="她常常喋喋不休。" />
       </outline>
-
+    </outline>
+    <outline text="第3组英汉">
       <outline text="&lt;b&gt;肉中刺&lt;/b&gt;" />
         <outline text="thorn in the flesh">
         <outline text="He was a thorn in the her flesh." _note="他是她的眼中钉肉中刺。" />
@@ -2761,7 +2777,8 @@
         <outline text="The wealth did not weigh on me." _note="这笔财富不再使我感到沉重。" />
         <outline text="Don't let it weigh on your mind." _note="你不要因此背包袱。" />
       </outline>
-
+    </outline>
+    <outline text="第3组英汉">
       <outline text="&lt;b&gt;起飞，发射&lt;/b&gt;" />
         <outline text="lift off">
         <outline text="Reporter Silverman kept this diary of the days leading up to lift-off." _note="记者西尔弗曼还记下了直到发射前的那些日子的日记。" />
@@ -3012,7 +3029,8 @@
         <outline text="He punished his opponent with fierce punches to the body." _note="他猛击对手的身体。" />
         <outline text="She was always reluctant to punish her opponent." _note="她总是不情愿地粗暴对待她的对手。" />
       </outline>
-
+    </outline>
+    <outline text="第3组英汉">
       <outline text="&lt;b&gt;抵制诱惑&lt;/b&gt;" />
         <outline text="resist the temptation">
         <outline text="I couldn't resist the temptation to get into a guy's hair." _note="我总是忍不住要抓别人的辫子。" />
@@ -3263,7 +3281,8 @@
         <outline text="This lubricating oil increases the work efficiency of the engine." _note="使用这款润滑油对发动机的工作起到了增效的作用。" />
         <outline text="The present invention provides a new lubricating oil composite for diesel engine." _note="本发明提供了一种新的柴油机润滑油组合物。" />
       </outline>
-
+    </outline>
+    <outline text="第3组英汉">
       <outline text="&lt;b&gt;神经系统&lt;/b&gt;" />
         <outline text="nervous system">
         <outline text="The brain is a part of the nervous system of the human body." _note="脑是人体神经系统的一部分。" />
@@ -3514,7 +3533,8 @@
         <outline text="I want to withdraw 200 dollars from my deposit account." _note="我要从我的定期存款中支取200美圆。" />
         <outline text="I want to open a deposit account with you." _note="我要开个储蓄帐户。" />
       </outline>
-
+    </outline>
+    <outline text="第3组英汉">
       <outline text="&lt;b&gt;变小，变少，逐渐终止&lt;/b&gt;" />
         <outline text="taper off">
         <outline text="I hope you can taper off smoking." _note="我希望你能逐渐地减少吸烟量。" />
@@ -3765,7 +3785,8 @@
         <outline text="Their age and experience entitle old people to the respect of young people." _note="老年人由于他们的年龄和经验而得到年轻人对他们的尊敬。" />
         <outline text="This ticket doesn't entitle you to travel first class." _note="你这张票不能坐头等位。" />
       </outline>
-
+    </outline>
+    <outline text="第3组英汉">
       <outline text="&lt;b&gt;坦率的，直截了当的，没有准备的&lt;/b&gt;" />
         <outline text="flat-footed">
         <outline text="The teacher's question caught him flat-footed." _note="老师的讯问使他仓皇失措。" />
